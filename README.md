@@ -1,16 +1,43 @@
-# cv_site
+# Portfolio Site
 
-A new Flutter project.
+This is a flutter application where I have clone a existing CV site into my portfolio site. Here I have user provider state management and components to make better coding in flutter.
 
-## Getting Started
+## Live Site: https://karno786.github.io/Portfolio-Site
 
-This project is a starting point for a Flutter application.
+## Screenshots:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### 01. HomeScreen
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Web capture_25-1-2022_182816_localhost](https://user-images.githubusercontent.com/56608168/150983243-7dab16d6-5ceb-4dd1-afca-93036286e2aa.jpeg)
+<br>
+<br>
+<br>
+<br>
+### 02. VideoScreen
+
+![Web capture_25-1-2022_182834_localhost](https://user-images.githubusercontent.com/56608168/150983336-b497a039-8106-422e-a37e-0ede892cf570.jpeg)
+<br>
+<br>
+<br>
+<br>
+### 03. ContactScreen
+
+![Web capture_25-1-2022_182851_localhost](https://user-images.githubusercontent.com/56608168/150983351-6cc06624-0777-4ad2-bc82-19008aefdbd9.jpeg)
+<br>
+<br>
+<br>
+<br>
+### Disclaimer
+This project is made only for educational purpose. Anyone can use it but the risk has to be taken by the user.
+for any query please contact me.
+
+### Repository Owner Info
+
+__Md. Al-Amin__ <br>
+__Email :__ [ alamin.karno@outlook.com ](mailto:alamin.karno@outlook.com) <br>
+__Github :__ [Md. Al-Amin](https://github.com/karno786)<br>
+__Facebook :__ [মোঃ আল-আমিন খন্দকার কর্ণ](https://facebook.com/alamin.kanro786) <br>
+__Linkedin :__ [Md. Alamin Karno](https://www.linkedin.com/in/alaminkarno/)
+<br>
+<br>
