@@ -1,6 +1,6 @@
 # Portfolio Site
 
-This is a flutter application where I have clone a existing CV site into my portfolio site. Here I have user provider state management and components to make better coding in flutter.
+This is a flutter application where I have clone a existing CV site into my portfolio site. Here I have use provider state management and components to make better coding in flutter.
 
 ## Live Site: https://karno786.github.io/Portfolio-Site
 
